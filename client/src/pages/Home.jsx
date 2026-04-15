@@ -4,6 +4,7 @@ import FeatureDestination from '../components/FeatureDestination'
 import ExclusiveOffers from '../components/ExclusiveOffers'
 import Testimonial from '../components/Testimonial'
 import NewsLetter from '../components/NewsLetter'
+import Footer from '../components/footer'
 
 const Home = () => {
   return (
